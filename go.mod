@@ -1,4 +1,4 @@
-module github.com/dgzlopes/k6-extension-interpret
+module github.com/dgzlopes/xk6-interpret
 
 go 1.15
 
